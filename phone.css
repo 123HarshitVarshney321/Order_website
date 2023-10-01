@@ -1,0 +1,33 @@
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    padding: 5px;
+}
+/*Home Section*/
+#home{
+    padding: 5px;
+}
+#home h1{
+    text-align: center;
+}
+#home p{
+    text-align: center;
+}
+/*Service section*/
+#Services{
+    flex-direction: column;
+}
+/*Client section*/
+#client-section{
+    height: 250px;
+}
+#client-section::before{
+    height: 250px;
+}
+#clients{
+    flex-wrap: wrap;
+}
+/*Contact section*/
+/*Footer*/
